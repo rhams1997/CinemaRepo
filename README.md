@@ -1,4 +1,4 @@
 # CinemaRepo
 <p align="center">
-  <img width="440" src="home/rhams/medo_/Oscar.png">
+  <img width="440" src="home/rhams/medo_/Oscar.jpg">
 </p>
