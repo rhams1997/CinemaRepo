@@ -3,6 +3,6 @@
   <img width="300" src="Oscar.jpg">
   
 </p>
-<p align="center">
+<p >
   Repositório de teste para treinamento git / github - POO I
 </p>
